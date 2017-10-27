@@ -1,2 +1,1 @@
-<? hello ?>sfsdfdssd
-<? hello ?>sdasdasdasdas
+<?php echo hello ?>
